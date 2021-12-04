@@ -26,7 +26,7 @@ function About() {
                   <button className="about btn pointer">Télécharger Cv</button>
                 </a>
                 <a href="#">
-                  <button className="about btn pointer">Embaucher Moi</button>
+                  <button className="about btn pointer">Contacter-Moi</button>
                 </a>
               </div>
               <div className="colz-icon">
