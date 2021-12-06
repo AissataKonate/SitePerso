@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import aboutImg from "./img/perfil.jpg";
+import aboutImg from "./img/about2.jpg";
 function About() {
   //  Up To Top Btn
     window.addEventListener("scroll", function(){
@@ -23,10 +23,10 @@ function About() {
               
               <div className="about__button d__flex align__items__center">
             <a href="CV_Aissata.pdf" download=" Aissaka Konate.pdf" >
-                  <button className="about btn pointer">Télécharger Cv</button>
+                  <button className="about btn pointer">Download Cv</button>
                 </a>
                 <a href="#">
-                  <button className="about btn pointer">Contacter-Moi</button>
+                  <button className="about btn pointer">Hire Me</button>
                 </a>
               </div>
               <div className="colz-icon">
